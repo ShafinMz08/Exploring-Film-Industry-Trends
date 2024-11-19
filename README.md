@@ -6,4 +6,4 @@ A data visualization dashboard for analyzing movie trends and predicting box off
 - Supports custom filters for genre, budget, and ratings.
 
 ## Installation or Usage
-git clone https://github.com/ShafinMz08/Exploring-Film-Industry-Trends.git
+
